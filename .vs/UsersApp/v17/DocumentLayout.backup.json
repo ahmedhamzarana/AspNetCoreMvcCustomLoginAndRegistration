@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|c:\\aspnetcoremvccustomloginandregistration-main\\migrations\\20250722062354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AA0804-668B-4129-A95E-A94133376DEB}|UsersApp.csproj|solutionrelative:migrations\\20250722062354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T06:44:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T06:44:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:35:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T06:30:15.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T06:30:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T06:29:59.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250722062354_initial.cs",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Migrations\\20250722062354_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250722062354_initial.cs",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Migrations\\20250722062354_initial.cs",
+              "RelativeToolTip": "Migrations\\20250722062354_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:23:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T06:19:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AspNetCoreMvcCustomLoginAndRegistration-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:14:16.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
