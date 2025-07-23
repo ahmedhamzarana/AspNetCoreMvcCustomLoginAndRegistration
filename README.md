@@ -39,7 +39,7 @@ A custom login and registration system built using **ASP.NET Core MVC (.NET 8)**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AspNetCoreMvcCustomLoginAndRegistration.git
+   git clone https://github.com/ahmedhamzarana/AspNetCoreMvcCustomLoginAndRegistration.git
    cd AspNetCoreMvcCustomLoginAndRegistration
    ```
 
